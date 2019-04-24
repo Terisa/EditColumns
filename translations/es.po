@@ -1,0 +1,649 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-11 17:28+0100\n"
+"PO-Revision-Date: 2016-07-11 18:33+0200\n"
+"Last-Translator: Terisa de Morgan\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: __init__.py:29
+msgid "Different operations which are usually performed"
+msgstr "Diferentes operaciones que se realizan habitualmente"
+
+#: action.py:63 action_ok.py:63
+msgid "Tools to normalize my metadata"
+msgstr "Herramientas para normalizar mis metadatos"
+
+#: action.py:118 action_ok.py:118
+msgid "Clean &book"
+msgstr "Limpiar &libro"
+
+#: action.py:120 action_ok.py:120
+msgid "Clean book"
+msgstr "Limpiar libro"
+
+#: action.py:124 action_ok.py:124
+msgid "Normalize &metadata"
+msgstr "Normalizar &metadatos"
+
+#: action.py:126 action_ok.py:126
+msgid "Normalize metadata"
+msgstr "Normalizar metadatos"
+
+#: action.py:132 action_ok.py:132
+msgid "Treat &converted"
+msgstr "Tratar &convertidos"
+
+#: action.py:134 action_ok.py:134
+msgid "Treat converted"
+msgstr "Tratar convertidos"
+
+#: action.py:143 action_ok.py:143
+msgid "Update &register"
+msgstr "Actualizar &registro"
+
+#: action.py:145 action_ok.py:145
+msgid "Update register"
+msgstr "Actualizar registro"
+
+#: action.py:150 action_ok.py:150
+msgid "&Update series status"
+msgstr "&Actualizar estado de series"
+
+#: action.py:152 action_ok.py:152
+msgid "Update series status"
+msgstr "Actualizar estado de series"
+
+#: action.py:156 action_ok.py:156
+msgid "Mark &rereads"
+msgstr "Marcar &relecturas"
+
+#: action.py:158 action_ok.py:158
+msgid "Mark rereads"
+msgstr "Marcar relecturas"
+
+#: action.py:162 action_ok.py:162
+msgid "Mark &conversion"
+msgstr "Marcar &conversion"
+
+#: action.py:164 action_ok.py:164
+msgid "Mark conversion"
+msgstr "Marcar para conversión"
+
+#: action.py:168 action_ok.py:168
+msgid "Mark &library"
+msgstr "Marcar &biblioteca"
+
+#: action.py:170 action_ok.py:170
+msgid "Mark library"
+msgstr "Marcar &biblioteca"
+
+#: action.py:174 action_ok.py:174
+msgid "&Clean reads"
+msgstr "&Limpia las lecturas"
+
+#: action.py:176 action_ok.py:176
+msgid "Clean reads"
+msgstr "Limpia las lecturas"
+
+#: action.py:182 action_ok.py:182
+msgid "Move &read books"
+msgstr "Mover &libros leídos"
+
+#: action.py:184 action_ok.py:184
+msgid "Move read books"
+msgstr "Mover libros leídos"
+
+#: action.py:190 action_ok.py:190
+msgid "&Normalize comment"
+msgstr "&Normalizar comentarios"
+
+#: action.py:192 action_ok.py:192
+msgid "Normalize comment"
+msgstr "Normalizar comentarios"
+
+#: action.py:196 action_ok.py:196
+msgid "&Customize plugin"
+msgstr "&Configurar complemento"
+
+#: action.py:269 action.py:274 action.py:283 action.py:288 action.py:340
+#: action.py:345 action.py:405 action.py:410 action.py:472 action.py:477
+#: action.py:497 action.py:502 action.py:519 action.py:524 action.py:541
+#: action.py:546 action.py:581 action.py:586 action.py:613 action.py:618
+#: action.py:649 action.py:654 action_ok.py:266 action_ok.py:271
+#: action_ok.py:280 action_ok.py:285 action_ok.py:337 action_ok.py:342
+#: action_ok.py:402 action_ok.py:407 action_ok.py:469 action_ok.py:474
+#: action_ok.py:494 action_ok.py:499 action_ok.py:516 action_ok.py:521
+#: action_ok.py:538 action_ok.py:543 action_ok.py:578 action_ok.py:583
+#: action_ok.py:610 action_ok.py:615 action_ok.py:642 action_ok.py:647
+msgid "No selected book"
+msgstr "No hay libro seleccionado"
+
+#: action.py:270 action.py:275 action_ok.py:267 action_ok.py:272
+msgid "No book selected for normalizing comments"
+msgstr "No se ha seleccionado un libro para normalizar los comentarios"
+
+#: action.py:284 action.py:289 action_ok.py:281 action_ok.py:286
+msgid "No book selected for cleaning"
+msgstr "No hay un libro seleccionado para limpiar"
+
+#: action.py:341 action_ok.py:338
+msgid "No book selected for normalizing metadata"
+msgstr "No se ha seleccionado un libro para normalizar los metadatos"
+
+#: action.py:346 action.py:406 action.py:411 action.py:473 action.py:478
+#: action.py:498 action.py:503 action.py:520 action.py:525 action_ok.py:343
+#: action_ok.py:403 action_ok.py:408 action_ok.py:470 action_ok.py:475
+#: action_ok.py:495 action_ok.py:500 action_ok.py:517 action_ok.py:522
+msgid "No book selected for update"
+msgstr "No se ha seleccionado un libro para actualizar"
+
+#: action.py:351 action.py:417 action.py:426 action.py:435 action.py:484
+#: action.py:508 action.py:530 action.py:557 action.py:592 action.py:624
+#: action.py:660 action.py:1405 action_ok.py:348 action_ok.py:414
+#: action_ok.py:423 action_ok.py:432 action_ok.py:481 action_ok.py:505
+#: action_ok.py:527 action_ok.py:554 action_ok.py:589 action_ok.py:621
+#: action_ok.py:653 action_ok.py:1400
+msgid "Configure plugin"
+msgstr "Consigurar plugin"
+
+#: action.py:352 action.py:418 action.py:427 action.py:436 action.py:485
+#: action.py:509 action.py:531 action.py:558 action.py:593 action.py:625
+#: action.py:661 action.py:1406 action_ok.py:349 action_ok.py:415
+#: action_ok.py:424 action_ok.py:433 action_ok.py:482 action_ok.py:506
+#: action_ok.py:528 action_ok.py:555 action_ok.py:590 action_ok.py:622
+#: action_ok.py:654 action_ok.py:1401
+msgid ""
+"You must specify custom columns first. Do you want to configure this now?"
+msgstr ""
+"Debes especificar las columnas personalizadas primero. ¿Quieres "
+"configurarlas ahora?"
+
+#: action.py:373 action.py:1254 action_ok.py:370 action_ok.py:1249
+msgid "No library"
+msgstr "No se encuentra la biblioteca"
+
+#: action.py:374 action_ok.py:371
+msgid "No library selected"
+msgstr "No hay una biblioteca seleccionada"
+
+#: action.py:378 action_ok.py:375
+msgid "No books selected"
+msgstr "No hay libros seleccionados"
+
+#: action.py:379 action_ok.py:376
+msgid "No book selected for normalizing"
+msgstr "No hay libros seleccionados para normalizar"
+
+#: action.py:385 action_ok.py:382
+msgid "No valid format"
+msgstr "No hay un formato válido"
+
+#: action.py:386 action_ok.py:383
+msgid "No epub format found"
+msgstr "No se ha encontrado un formado ePub"
+
+#: action.py:542 action.py:547 action.py:582 action.py:614 action_ok.py:539
+#: action_ok.py:544 action_ok.py:579 action_ok.py:611
+msgid "No book selected for treating"
+msgstr "No hay un libro seleccionado para tratar"
+
+#: action.py:552 action.py:1451 action_ok.py:549 action_ok.py:1446
+msgid "No ePub format"
+msgstr "No hay un formato ePub"
+
+#: action.py:553 action.py:1452 action_ok.py:550 action_ok.py:1447
+msgid "No ePub format at selected books"
+msgstr "No hay un formato ePub en los libros seleccionados"
+
+#: action.py:587 action.py:619 action_ok.py:584 action_ok.py:616
+msgid "No book selected for marking"
+msgstr "No hay un libro seleccionado para marcar"
+
+#: action.py:650 action.py:655 action_ok.py:643 action_ok.py:648
+msgid "No book selected for move"
+msgstr "No se ha seleccionado un libro para mover"
+
+#: action.py:1019 action.py:1155 action.py:1214 action_ok.py:1008
+#: action_ok.py:1150 action_ok.py:1209
+msgid "Unknown"
+msgstr "Desconocido"
+
+#: action.py:1255 action_ok.py:1250
+#, python-format
+msgid "No library found at %s"
+msgstr "No existe una biblioteca en %s"
+
+#: action.py:1260 action_ok.py:1255
+msgid "Copying to"
+msgstr "Copiando a"
+
+#: action.py:1275 action_ok.py:1270
+#, python-format
+msgid "Copied %(num)d books to %(loc)s"
+msgstr "%(num)d libros copiados a %(loc)s"
+
+#: action.py:1279 action_ok.py:1274
+msgid "Failed"
+msgstr "Falló"
+
+#: action.py:1279 action_ok.py:1274
+msgid "Could not copy books: "
+msgstr "No se pudieron copiar estos libros: "
+
+#: action.py:1369 action_ok.py:1364
+msgid "Book deleted"
+msgstr "Libro borrado"
+
+#: action.py:1370 action_ok.py:1365
+msgid ""
+"The book you were trying to convert has been deleted from the calibre "
+"library."
+msgstr ""
+"El libro que estás intentando convertir ha sido borrado de la biblioteca de "
+"calibre."
+
+#: action.py:1375 action_ok.py:1370
+msgid "Empty output file, probably the conversion process crashed"
+msgstr "Archivo de salida vacío, probablemente el proceso de conversión falló"
+
+#: common_utils.py:271
+msgid "Restart required"
+msgstr "Se necesita reiniciar"
+
+#: common_utils.py:272
+msgid ""
+"Title image not found - you must restart Calibre before using this plugin!"
+msgstr ""
+"Imagen del título no encontrada - ¡debes reiniciar Calibre antes de usar "
+"este plugin!"
+
+#: common_utils.py:552
+msgid "Undefined"
+msgstr "Indefinido"
+
+#: common_utils.py:639
+msgid "Restart calibre now"
+msgstr "Reiniciar calibre ahora"
+
+#: common_utils.py:863
+msgid "Choose library"
+msgstr "Elegir biblioteca"
+
+#: common_utils.py:864
+msgid "Library &path:"
+msgstr "&Ruta de la biblioteca:"
+
+#: common_utils.py:872
+msgid "Browse for library"
+msgstr "Buscar biblioteca"
+
+#: common_utils.py:879
+msgid "&Copy"
+msgstr "&Copiar"
+
+#: common_utils.py:881
+msgid "Copy to the specified library"
+msgstr "Copiar a la biblioteca especificad"
+
+#: common_utils.py:889
+msgid "Choose Library"
+msgstr "Elegir biblioteca"
+
+#: config.py:268
+msgid "MyTools Options"
+msgstr "Opciones de MyTools"
+
+#: config.py:320
+msgid "Edit the keyboard shortcuts associated with this plugin"
+msgstr "Editar los atajos de teclado asociados con este plugin"
+
+#: config.py:325
+msgid "View data stored in the library database for this plugin"
+msgstr ""
+"Ver los datos almacenados en la base de datos de la biblioteca para este "
+"plugin"
+
+#: config.py:337
+msgid "Common"
+msgstr "Común"
+
+#: config.py:338
+msgid "Register"
+msgstr "Registro"
+
+#: config.py:339
+msgid "Other options"
+msgstr "Otras opciones"
+
+#: config.py:421
+msgid "Conversion configuration"
+msgstr "Configuración de conversión"
+
+#: config.py:425
+msgid "&Next read custom column:"
+msgstr ""
+
+#: config.py:425
+msgid "Book which is going to be sent to the device"
+msgstr "Libro que se va a enviar al dispositivo"
+
+#: config.py:429
+msgid "&No convert custom column:"
+msgstr ""
+
+#: config.py:429
+msgid "Book which is already converted"
+msgstr ""
+
+#: config.py:433
+msgid "&Dev library"
+msgstr "Biblioteca del &Dispositivo"
+
+#: config.py:433
+msgid "Library for coping the books to send to the device"
+msgstr ""
+
+#: config.py:439
+msgid "Register column configuration"
+msgstr ""
+
+#: config.py:443
+msgid "&Num pag custom column:"
+msgstr ""
+
+#: config.py:443
+msgid "Number of page of the book"
+msgstr "Número de páginas del libro"
+
+#: config.py:446
+msgid "&Goodreads custom column:"
+msgstr ""
+
+#: config.py:446
+msgid "Included in goodreads"
+msgstr "Incluído en goodreads"
+
+#: config.py:449
+msgid "&Percentage custom column:"
+msgstr ""
+
+#: config.py:449
+msgid "Percentage read of the book"
+msgstr "Porcentaje leído del libro"
+
+#: config.py:456
+msgid "Initial column configuration"
+msgstr ""
+
+#: config.py:460
+msgid "&Theme custom column:"
+msgstr ""
+
+#: config.py:460
+msgid "Themes of the book"
+msgstr ""
+
+#: config.py:463
+msgid "&Setting custom column:"
+msgstr "&Establecer columnas personalizadas:"
+
+#: config.py:463
+msgid "Settings of the book"
+msgstr ""
+
+#: config.py:469
+msgid "Series configuration:"
+msgstr "Configuración de series:"
+
+#: config.py:473
+msgid "&Read in series custom column:"
+msgstr ""
+
+#: config.py:473
+msgid "Number of books read in the associated series"
+msgstr ""
+
+#: config.py:477
+msgid "&Non read in series custom column:"
+msgstr ""
+
+#: config.py:477
+msgid "Number of books non read in the associated series"
+msgstr ""
+
+#: config.py:481
+msgid "&Next in series custom column:"
+msgstr ""
+
+#: config.py:481
+msgid "Next non-read index in the associated series"
+msgstr ""
+
+#: config.py:485
+msgid "&Read indicator custom column:"
+msgstr ""
+
+#: config.py:485
+msgid "Column which sets a book as status / non-status"
+msgstr ""
+
+#: config.py:489
+msgid "&Updated custom column:"
+msgstr ""
+
+#: config.py:489
+msgid "Column which indicates if the series has been updated"
+msgstr ""
+
+#: config.py:496
+msgid "Rereads configuration:"
+msgstr ""
+
+#: config.py:500
+msgid "&Number of readings custom column:"
+msgstr ""
+
+#: config.py:500
+msgid "Number of times the book has been read"
+msgstr ""
+
+#: config.py:504
+msgid "&Date of reading custom column:"
+msgstr ""
+
+#: config.py:504
+msgid "Date of last reading of the book"
+msgstr ""
+
+#: config.py:508
+msgid "&Half star custom column:"
+msgstr ""
+
+#: config.py:508
+msgid "Half star for rating"
+msgstr ""
+
+#: config.py:512
+msgid "&Reread library"
+msgstr "Biblioteca de &Relecturas"
+
+#: config.py:512
+msgid "Library for coping the reread books"
+msgstr ""
+
+#: config.py:518
+msgid "Library configuration"
+msgstr "Configuración de biblioteca"
+
+#: config.py:522
+msgid "&Origin custom column:"
+msgstr ""
+
+#: config.py:522
+msgid "Origin of the book"
+msgstr "Origen del libro"
+
+#: config.py:526
+msgid "&Original file custom column:"
+msgstr ""
+
+#: config.py:526
+msgid "Original book file"
+msgstr ""
+
+#: config.py:530
+msgid "&Original library"
+msgstr ""
+
+#: config.py:530
+msgid "Library for coping the books to process"
+msgstr ""
+
+#: config.py:536
+msgid "Common configuration"
+msgstr ""
+
+#: config.py:540
+msgid "&Conv custom column:"
+msgstr ""
+
+#: config.py:540
+msgid "Book which is going to be converted"
+msgstr "Libro que se va a convertir"
+
+#: config.py:543
+msgid "&Conv library"
+msgstr "Biblioteca de &Conversión"
+
+#: config.py:543
+msgid "Library for coping the books to be converted"
+msgstr ""
+
+#: config.py:546
+msgid "&Reg library"
+msgstr "Biblioteca de re&Gistro"
+
+#: config.py:546
+msgid "Library for coping the processed books"
+msgstr ""
+
+#: config.py:548
+msgid "&Omn library"
+msgstr ""
+
+#: config.py:548
+msgid "Library for coping the omnibus"
+msgstr ""
+
+#: config.py:553
+msgid "Challenge configuration"
+msgstr "Configuración de desafíos"
+
+#: config.py:557
+msgid "&Challenge custom column:"
+msgstr ""
+
+#: config.py:557
+msgid "Challenges the book fit"
+msgstr "Desafíos que cubre el libro"
+
+#: config.py:561
+msgid "&Challenge library"
+msgstr "Biblioteca de &Desafíos"
+
+#: config.py:561
+msgid "Library for coping the books included in a challenge"
+msgstr ""
+
+#: config.py:567
+msgid "Tools availabity options:"
+msgstr ""
+
+#: config.py:571
+msgid "Conversion option"
+msgstr "Opción de conversión"
+
+#: config.py:572
+msgid "Check this option if you want to use the conversion options."
+msgstr ""
+
+#: config.py:576
+msgid "Register option"
+msgstr "Opción de registro"
+
+#: config.py:577
+msgid "Check this option if you want to use the register options."
+msgstr ""
+
+#: config.py:581
+msgid "Metadata option"
+msgstr "Opción de metadatos"
+
+#: config.py:582
+msgid "Check this option if you want to use the metadata options."
+msgstr "Marca esta casilla si quieres usar las opciones de metadatos."
+
+#: config.py:586
+msgid "Device library option"
+msgstr "Opción de biblioteca del dispositivo"
+
+#: config.py:587
+msgid "Check this option if you want to use the device library options."
+msgstr ""
+"Marca esta casilla si quieres usar las opciones de la biblitoeca de "
+"dispositivos."
+
+#: config.py:652 config.py:661
+msgid "Choose library by path..."
+msgstr "Elegir biblioteca por directorio..."
+
+#: config.py:669
+msgid "Choose library location "
+msgstr "Elegir localización de la biblioteca"
+
+#: config.py:683
+msgid "Cannot copy"
+msgstr "No puede copiar"
+
+#: config.py:684
+msgid "Cannot copy to current library."
+msgstr "No puede copiar a la biblioteca actual."
+
+#: dialogs.py:104
+msgid "Queueing "
+msgstr "Poniendo en cola"
+
+#~ msgid "Auto merged"
+#~ msgstr "Unido automáticamente"
+
+#~ msgid ""
+#~ "Some books were automatically merged into existing records in the target "
+#~ "library. Click Show details to see which ones. This behavior is "
+#~ "controlled by the Auto merge option in Preferences->Adding books."
+#~ msgstr ""
+#~ "Algunos libros se han unido automáticamente a los registros existentes en "
+#~ "la biblioteca. Pulse «Mostrar detalles» para ver cuáles. Este "
+#~ "comportamiento está controlado por la opción «Unión automática» en "
+#~ "Preferencias > Añadir libros."
+
+#~ msgid "%(title)s by %(author)s"
+#~ msgstr "%(title)s por %(author)s"
+
+#~ msgid "Common column configuration"
+#~ msgstr "Configuración de columnas comunes"
+
+#~ msgid "Starting page count"
+#~ msgstr "Iniciando la cuenta de páginas"
