@@ -1,3 +1,5 @@
 Option to manage read books
+[B]Version 0.1.0[/B] - 26 Sep 2020
+Ported to python 3
 [B]Version 0.0.1[/B] - 07 Dec 2016
 Initial release of Edit Editable Status Plugin

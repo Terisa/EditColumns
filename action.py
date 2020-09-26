@@ -48,14 +48,14 @@ try:
 except NameError:
     debug_print("EditColumns::action.py - exception when loading translations")
     pass # load_translations() added in calibre 1.9
-	
+    
 class EditColumnsAction(InterfaceAction):
 
     name = 'Edit Columns'
     # Create our top-level menu/toolbar action (text, icon_path, tooltip, keyboard shortcut)
     action_spec = ('Edit Columns', None, _('Make custom columns editable / not editable'), 'Alt+Shift+E')
     dont_add_to = frozenset(['context-menu-device'])
-	
+    
 
     def genesis(self):
         icon_resources = self.load_resources(PLUGIN_ICONS)
@@ -65,13 +65,13 @@ class EditColumnsAction(InterfaceAction):
         self.qaction.setIcon(get_icon(PLUGIN_ICONS[0]))
         self.qaction.triggered.connect(self.show_custom_cols)
 
-	def show_custom_cols (self):
-	
-		dlg = UpdateCustomColsDialog(self.gui, self)
+    def show_custom_cols (self):
+    
+        dlg = UpdateCustomColsDialog(self.gui, self)
         dlg.exec_()
-		if dlg.restart:
-			do_restart = show_restart_warning (_('Restart caibre for the changes to the custom columns to be applied.'))
-			if do_restart:
-				self.gui.quit (restart=True)
-		else:
-			return
+        if dlg.restart:
+            do_restart = show_restart_warning (_('Restart caibre for the changes to the custom columns to be applied.'))
+            if do_restart:
+                self.gui.quit (restart=True)
+        else:
+            return

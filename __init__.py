@@ -29,7 +29,7 @@ class ActionEditColumns(InterfaceActionBase):
     description             = _('Toggle custom columns editable status')
     supported_platforms     = ['windows', 'osx', 'linux']
     author                  = 'Terisa de Morgan'
-    version                 = (0, 0, 1)
+    version                 = (0, 1, 0)
     minimum_calibre_version = (2, 0, 0)
 
     #: This field defines the GUI plugin class that contains all the code
