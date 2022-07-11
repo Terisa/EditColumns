@@ -53,7 +53,7 @@ class UpdateCustomColsDialog(SizePersistedDialog):
         for key in sorted (self.custom_cols):
             value = self.custom_cols[key]
             self.checkbox[key] = self.createCheckbox (value)
-            column_layout.addWidget(self.checkbox[key], (pos / 2), (pos % 2)* 2 + 1, 1, 1)
+            column_layout.addWidget(self.checkbox[key], int ((pos / 2)), int ((pos % 2)* 2 + 1), 1, 1)
             pos = pos + 1
             
         layout.addStretch(1)

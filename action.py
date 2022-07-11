@@ -70,7 +70,7 @@ class EditColumnsAction(InterfaceAction):
         dlg = UpdateCustomColsDialog(self.gui, self)
         dlg.exec_()
         if dlg.restart:
-            do_restart = show_restart_warning (_('Restart caibre for the changes to the custom columns to be applied.'))
+            do_restart = show_restart_warning (_('Restart calibre for the changes to the custom columns to be applied.'))
             if do_restart:
                 self.gui.quit (restart=True)
         else:
